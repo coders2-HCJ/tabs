@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+.tab-bar {
+  overflow: hidden;
+  background-color: #EEE;
+  border-bottom: 5px solid #CCC;
+}
+.tab {
+  font-size: 25px;
+  float: left;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  background-color: inherit;
+}
+.tab:hover {
+  background-color: #DDD;
+}
+.tab.active {
+  background-color: #CCC;
+}
+.tab-content {
+  display: none;
+  padding: 8px;
+  overflow-wrap: break-word;
+}
