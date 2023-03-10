@@ -4,7 +4,7 @@ body {
 .tab-bar {
   overflow: hidden;
   background-color: #EEE;
-  border-bottom: 5px solid #CCC;
+  border-bottom: 5px solid black;
 }
 .tab {
   font-size: 25px;
