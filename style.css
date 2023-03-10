@@ -20,7 +20,8 @@ body {
   background-color: #DDD;
 }
 .tab.active {
-  background-color: #CCC;
+  background-color: black;
+  color: white;
 }
 .tab-content {
   display: none;
